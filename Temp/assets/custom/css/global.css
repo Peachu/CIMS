@@ -1,0 +1,24 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+body {
+    background:url("../img/flyff/bg.jpg") top center no-repeat fixed #fff;
+}
+
+.clear {
+    clear:both;
+}
+
+.rows {
+    margin-top:50px;
+}
+
+#menu-toggle {
+    margin-left:25px;
+    margin-top:25px;
+    border-radius:0px;
+    border:#000;
+    background:#333;
+}
